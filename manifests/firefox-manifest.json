@@ -1,22 +1,22 @@
 {
 
   "manifest_version": 2,
-  "short_name": "gopassbridge",
-  "name": "Gopass Bridge",
-  "version": "2.0.0",
+  "short_name": "gopassbridge-dark",
+  "name": "Gopass Bridge Dark",
+  "version": "1.0.0",
   "description": "__MSG_extensionDescription__",
-  "author": "Martin Hoefling",
+  "author": "JasonM23",
   "homepage_url": "https://github.com/gopasspw/gopassbridge",
   "incognito": "spanning",
 
   "icons": {
-    "48": "icons/gopassbridge-48.png",
-    "96": "icons/gopassbridge-96.png"
+    "48": "icons/gopassbridge-dark-48.png",
+    "96": "icons/gopassbridge-dark-96.png"
   },
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "{eec37db0-22ad-4bf1-9068-5ae08df8c7e9}",
+      "id": "gopassbridge-dark@ocodo",
       "strict_min_version": "79.0"
     }
   },
@@ -54,8 +54,8 @@
   "browser_action": {
     "browser_style": true,
     "default_icon": {
-      "48": "icons/gopassbridge-48.png",
-      "96": "icons/gopassbridge-96.png"
+      "48": "icons/gopassbridge-dark-48.png",
+      "96": "icons/gopassbridge-dark-96.png"
     },
     "default_title": "__MSG_browserActionTitle__",
     "default_popup": "gopassbridge.html"

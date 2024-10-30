@@ -20,13 +20,13 @@ package: format
 		cd firefox-release; cp -R ../web-extension/* .
 
 release: package
-		cp chrome.pem chrome-release/key.pem
+		$(LOCAL_WEB_EXT) -s $(CURDIR)/firefox-release lint
+		$(LOCAL_WEB_EXT) -s $(CURDIR)/firefox-release build --overwrite-dest
 
+		cp chrome.pem chrome-release/key.pem
 		rm -f chrome.zip
 		cd chrome-release; zip -r ../chrome.zip .
 
-		$(LOCAL_WEB_EXT) -s $(CURDIR)/firefox-release lint
-		$(LOCAL_WEB_EXT) -s $(CURDIR)/firefox-release build --overwrite-dest
 
 clean:
 		rm -rf chrome firefox chrome-release firefox-release chrome.zip webextension-polyfill web-ext-artifacts

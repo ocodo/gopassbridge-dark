@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 25.4 25.4"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="gopassbridge-dark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.3242993"
+     inkscape:cx="44.631508"
+     inkscape:cy="43.590877"
+     inkscape:window-width="1280"
+     inkscape:window-height="698"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="fill:#b3b3b3;stroke-width:0.282497"
+       d="M 12.7 0.15709635 C 5.7727052 0.15709604 0.15709604 5.7727052 0.15709635 12.7 C 0.15709635 19.627295 5.7727054 25.242904 12.7 25.242904 C 19.627294 25.242904 25.242904 19.627294 25.242904 12.7 C 25.242904 5.7727054 19.627295 0.15709635 12.7 0.15709635 z M 7.1184285 3.9832194 L 13.662215 3.9832194 C 15.676946 3.9832194 17.244563 4.5087034 18.365804 5.5598674 C 19.504565 6.6110314 20.074227 8.0476642 20.074227 9.8696818 C 20.074227 11.534025 19.487411 12.909325 18.313611 13.995528 C 17.15733 15.064211 15.632858 15.598531 13.740763 15.598531 L 11.16521 15.598531 L 11.16521 22.273576 L 7.1184285 22.273576 L 7.1184285 3.9832194 z M 11.16521 7.6098714 L 11.16521 11.971879 L 13.688053 11.971879 C 14.37131 11.971879 14.9233 11.779047 15.343766 11.39362 C 15.764231 10.990674 15.974736 10.456354 15.974736 9.7906169 C 15.974736 9.0723215 15.755396 8.5296831 15.317411 8.1617757 C 14.879426 7.7938683 14.301445 7.6098714 13.58315 7.6098714 L 11.16521 7.6098714 z " />
+  </g>
+</svg>
